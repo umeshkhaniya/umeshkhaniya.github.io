@@ -1,3 +1,16 @@
-title: Umesh Khaniya - Computational Biophysicist
-description: Portfolio showcasing my research in biophysics and data science
-theme: jekyll-theme-cayman
+title: Umesh Khaniya
+description: Postdoc | Antibody Engineering | Computational Biology
+url: "https://umeshkhaniya.github.io"
+baseurl: ""
+github_username: umeshkhaniya
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Social links
+author:
+  name: Umesh Khaniya
+  email: umesh_khaniya2010@gmail.com
+  linkedin: https://www.linkedin.com/in/umesh-khaniya-ph-d-72a1b0132/
+  scholar: https://scholar.google.com/citations?user=SCXaCtYAAAAJ&hl=en
