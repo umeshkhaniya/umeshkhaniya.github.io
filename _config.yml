@@ -14,3 +14,9 @@ author:
   email: umesh_khaniya2010@gmail.com
   linkedin: https://www.linkedin.com/in/umesh-khaniya-ph-d-72a1b0132/
   scholar: https://scholar.google.com/citations?user=SCXaCtYAAAAJ&hl=en
+  
+header_pages:
+  - index.md
+  - projects.md
+  - publications.md
+  - contact.md
