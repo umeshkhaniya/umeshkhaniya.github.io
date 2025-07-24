@@ -4,7 +4,8 @@ title: Umesh Khaniya
 permalink: /
 ---
 
-### Welcome
+### Welcome to my Website
+![Umesh Khaniya](assets/umesh_profile.jpg){: style="width:200px; border-radius: 50%;" }
 
 I am a postdoctoral researcher at NIH specializing in antibody engineering, CAR-T modeling, and machine learning for structural biology.
 
