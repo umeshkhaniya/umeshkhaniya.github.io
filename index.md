@@ -8,13 +8,21 @@ permalink: /
 
 I am a postdoctoral researcher at NIH specializing in antibody engineering, CAR-T modeling, and machine learning for structural biology.
 
-**🔍 Actively seeking roles in AI-driven biology, immunoinformatics, and structural bioinformatics.**
+
 
 #### 🔬 Key Skills
-- **ML/AI**: PyTorch, scikit-learn, AlphaFold2, GNNs
-- **Structural Tools**: Rosetta, PyMOL, DSSP, ChimeraX
-- **Scripting**: Python, Bash
-- **Data Analysis**: pandas, seaborn
+
+-	**MD & Docking**: NAMD, GROMACS, OpenMM, CHARMM-GUI, MM-PBSA, FEP, Schrödinger BioLuminate, AutoDock, PIPER
+-	**Protein Modeling**: AlphaFold (AF2/AF3), ESMFold, RoseTTAFold, Modeller, Chai Discovery
+-	**ML**: Graph Neural Networks, Transformer Models, Diffusion Models, Hugging Face, Fine-Tuning
+-	**Frameworks**: PyTorch, TensorFlow, scikit-learn, PySpark
+-	**Protein-Ligand Docking**: Schrödinger BioLuminate, PIPER, AutoDock
+-	**Cheminformatics**: RDKit, PaDEL
+-	**Programming**: Python, SQL, Bash, R
+-	**Cloud & DevOps**: AWS (EC2, S3, Redshift, Lambda), HPC environments, Docker, Git, Airflow
+-	**Visualization & Tools**: VMD, PyMol, UCSF Chimera, Jupyter Notebook
+
+
 
 #### 📂 Projects
 - **IgStrand Universal Numbering**: Structural classification of Ig domains across proteomes using TM-align and AF2 models.
