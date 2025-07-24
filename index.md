@@ -5,10 +5,23 @@ permalink: /
 ---
 
 ### Welcome to my Website
-![Umesh Khaniya](assets/umesh_profile.jpg){: style="width:200px; border-radius: 50%;" }
 
-I am a postdoctoral researcher at NIH specializing in antibody engineering, CAR-T modeling, and machine learning for structural biology.
+<div style="display: flex; align-items: center; gap: 20px;">
 
+  <img src="assets/umesh_profile.jpg" alt="Umesh Khaniya" style="width: 200px; border-radius: 50%;">
+
+  <div>
+    <h2>Hi, I'm Umesh Khaniya</h2>
+    <p>
+      I am a postdoctoral researcher at NIH, working on antibody engineering, CAR-T cell modeling, and computational immunology.
+      My work focuses on structure-based analysis of Ig folds, ML-based topology labeling, and domain-domain interaction predictions.
+      # Education
+      * Ph.D.  in Physics, *CUNY Graduate Center*, 2016-2022
+        * Master in Physics, *Tribhuvan University, Nepal*, 2013-2015
+    </p>
+  </div>
+
+</div>
 
 
 #### 🔬 Key Skills
