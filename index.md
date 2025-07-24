@@ -1,8 +1,4 @@
----
-layout: home
-title: Umesh Khaniya
-permalink: /
----
+
 
 ### Welcome to my Website
 
