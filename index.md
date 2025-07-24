@@ -22,7 +22,10 @@ I am a postdoctoral researcher at NIH specializing in antibody engineering, CAR-
 -	**Cloud & DevOps**: AWS (EC2, S3, Redshift, Lambda), HPC environments, Docker, Git, Airflow
 -	**Visualization & Tools**: VMD, PyMol, UCSF Chimera, Jupyter Notebook
 
-
+# Education
+* Ph.D.  in Physics, *CUNY Graduate Center*, 2016-2022
+* Master in Physics, *Tribhuvan University, Nepal*, 2013-2015
+  
 
 #### 📂 Projects
 - **IgStrand Universal Numbering**: Structural classification of Ig domains across proteomes using TM-align and AF2 models.
