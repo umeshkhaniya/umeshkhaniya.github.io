@@ -1,5 +1,4 @@
 
-
 ### Welcome to my Website
 
 <table>
@@ -26,7 +25,7 @@
 
 
 
-#### 🔬 Key Skills
+# 🔬 Key Skills
 
 -	**MD & Docking**: NAMD, GROMACS, OpenMM, CHARMM-GUI, MM-PBSA, FEP, Schrödinger BioLuminate, AutoDock, PIPER
 -	**Protein Modeling**: AlphaFold (AF2/AF3), ESMFold, RoseTTAFold, Modeller, Chai Discovery
@@ -38,10 +37,7 @@
 -	**Cloud & DevOps**: AWS (EC2, S3, Redshift, Lambda), HPC environments, Docker, Git, Airflow
 -	**Visualization & Tools**: VMD, PyMol, UCSF Chimera, Jupyter Notebook
 
-# Education
-* Ph.D.  in Physics, *CUNY Graduate Center*, 2016-2022
-* Master in Physics, *Tribhuvan University, Nepal*, 2013-2015
-  
+
 
 #### 📂 Projects
 - **IgStrand Universal Numbering**: Structural classification of Ig domains across proteomes using TM-align and AF2 models.
