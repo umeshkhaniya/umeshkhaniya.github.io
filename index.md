@@ -9,7 +9,7 @@ permalink: /
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <img src="assets/umesh_photo.jpg" alt="Umesh Khaniya" style="width: 180px; border-radius: 50%;">
+      <img src="assets/umesh_profile.jpg" alt="Umesh Khaniya" style="width: 180px; border-radius: 50%;">
     </td>
     <td style="vertical-align: top;">
       <h2>Hi, I'm Umesh Khaniya</h2>
