@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="page-shell standard-shell">
+  <header class="page-header">
+    <p class="eyebrow">Portfolio</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+  <article class="content-card prose-card">
+    {{ content }}
+  </article>
+</div>

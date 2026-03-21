@@ -1,0 +1,17 @@
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+      <span class="site-brand-name">{{ site.title }}</span>
+      <span class="site-brand-role">{{ site.description }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary navigation">
+      {% for path in site.header_pages %}
+        {% assign nav_page = site.pages | where: "path", path | first %}
+        {% if nav_page and nav_page.title %}
+          <a class="nav-link{% if page.url == nav_page.url %} is-active{% endif %}" href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>
