@@ -150,8 +150,11 @@ title: Home
   </p>
   <div class="project-grid">
     <article class="project-card">
-      <h3>IgStrand Universal Numbering</h3>
-      <p>Structural classification of Ig domains across proteomes using TM-align and AF2 models.</p>
+      <h3>gene-ig-identify</h3>
+      <p>Structural classification of Ig domains across proteomes using TM-align and AF2 models. This can predict immunoglobulin (Ig) and Ig-like domains in protein structures. The main goal is to quantify Ig domains in the human genome at both the domain and chain levels.</p>
+      <p class="project-links">
+          <a href="https://github.com/umeshkhaniya/gene-ig-identify">gene-ig-identify</a>
+        </p>
     </article>
     <article class="project-card">
       <h3>CAR-T Modeling</h3>
