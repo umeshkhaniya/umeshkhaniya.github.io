@@ -98,7 +98,8 @@ title: Home
     Selected certifications and training areas relevant to computational biology, machine learning, and scientific software.
   </p>
   <div class="tag-list" aria-label="Certifications and training">
-    <a class="tag-pill" href="https://www.schrodinger.com/" target="_blank" rel="noreferrer">Schrodinger Suite</a>
+    <a class="tag-pill" href="https://courses.schrodinger.com/certificates/uwkwyewkbx/" target="_blank" rel="noreferrer">Designing Quality Ligand Libraries</a>
+    <a class="tag-pill" href="https://courses.schrodinger.com/certificates/d2xano0bkf" target="_blank" rel="noreferrer">Introduction to Computational Antibody Engineering</a>
     <a class="tag-pill" href="https://www.coursera.org/" target="_blank" rel="noreferrer">Data Engineering</a>
     <a class="tag-pill" href="https://www.coursera.org/" target="_blank" rel="noreferrer">Machine Learning</a>
   </div>
